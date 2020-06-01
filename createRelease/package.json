@@ -1,0 +1,15 @@
+{
+  "name": "create-release-lambda",
+  "version": "1.0.0",
+  "description": "This lambda creates a release every new day/midnight",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -e \"console.log(require('./index').handler({}));\""
+  },
+  "author": "ContentStack",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
