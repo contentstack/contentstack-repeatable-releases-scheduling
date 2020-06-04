@@ -13,7 +13,7 @@ We have created an in-depth tutorial on the demonstrating the lambda function us
 
 ![Screenshot from 2020-06-04 17-05-47](https://user-images.githubusercontent.com/29656920/83752246-d7d2d080-a685-11ea-8ea4-422f0a9ba882.png)
 
-# Documentation
+## Documentation
 
 Read Contentstack [docs](https://www.contentstack.com/docs/)
 
