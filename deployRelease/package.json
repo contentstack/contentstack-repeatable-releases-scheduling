@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node -e \"console.log(require('./index').handler({}));\""
   },
-  "author": "ContentStack",
+  "author": "Contentstack",
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.2",
