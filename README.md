@@ -17,5 +17,5 @@ We have created an in-depth tutorial on the demonstrating the lambda function us
 
 Read Contentstack [docs](https://www.contentstack.com/docs/)
 
-Read Guide [Contentstack Repeatable Releases Scheduling]()
+Read Guide [Contentstack Repeatable Releases Scheduling](https://www.contentstack.com/docs/developers/how-to-guides/scheduling-repeatable-releases-using-management-apis-and-aws-lambda/)
 
