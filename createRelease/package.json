@@ -4,12 +4,16 @@
   "description": "This lambda creates a release every new day/midnight",
   "main": "index.js",
   "scripts": {
-    "start": "node -e \"console.log(require('./index').handler({}));\""
+    "start": "node -e \"console.log(require('./index').handler({}));\"",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": "Contentstack",
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.2",
-    "request-promise": "^4.2.5"
-  }
+    "request-promise": "^4.2.5",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
