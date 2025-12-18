@@ -1,3 +1,6 @@
+> [!WARNING]
+  **This repo is deprecated and no longer maintained. Security updates are not supported. We recommend avoiding its use for production.**
+
 [![Contentstack](https://www.contentstack.com/docs/static/images/contentstack.png)](https://www.contentstack.com/)
 
 # Contentstack Repeatable Releases Scheduling
